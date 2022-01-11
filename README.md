@@ -76,9 +76,10 @@ public class AboutMe {
 
 <p align="center">
   <a href="https:https://www.linkedin.com/in/ravindu-prathibha-b443aa225/"><img alt="Linkedin" title="Pasindu Lakshan Kudaligama Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href=""><img alt="Twitter" title="Ravindu Prathibha Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/home"><img alt="Twitter" title="Ravindu Prathibha Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:maxravindu99@gmail.com"><img alt="Gmail" title="Ravindu Prathibha Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Ranger-HK/Ranger-HK"><img alt="Github" title="Ravindu Prathibha Github" src="https://img.shields.io/badge/GitHub-320021?style=for-the-badge&logo=github&logoColor=white"></a>
+	
 </p>
 
 <h3 align="center">
