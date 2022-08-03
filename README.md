@@ -123,4 +123,4 @@ GitHub Readme Profile Styles here ! ✌
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-https://api.daily.dev/devcards/2b319cc4572442938f2dd952753460f9.png?r=8a6
+<p><a href="https://app.daily.dev/Loneranger99"><img src="https://api.daily.dev/devcards/2b319cc4572442938f2dd952753460f9.png?r=sph" width="400" alt="Ravindu Prathibha's Dev Card"/></a></P>
