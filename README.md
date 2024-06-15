@@ -138,7 +138,7 @@
   <a href="https://twitter.com/home"><img alt="Twitter" title="Ravindu Prathibha Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:ravinduprathibha9@gmail.com"><img alt="Gmail" title="Ravindu Prathibha Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Ranger-HK/Ranger-HK"><img alt="Github" title="Ravindu Prathibha Github" src="https://img.shields.io/badge/GitHub-320021?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a  href=""><img  img  src="https://img.shields.io/badge/web-%23EA4335.svg?style=plastic&logo=web&logoColor=white"  alt="Web"/></a>
+  <a  href="https://ranger-hk.github.io/MyProfile/"><img  img  src="https://img.shields.io/badge/web-%23EA4335.svg?style=plastic&logo=web&logoColor=white"  alt="Web"/></a>
 
 </p>
 
