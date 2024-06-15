@@ -13,7 +13,7 @@
 ```java
 public class AboutMe {
     public static void main(String[] args) {
-        String user = "Ravindu Prathibha";
+        String user = "Ravindu ";
         String current_edu = "IJSE";
         String currently_learning = "Web Development";
         String fun_fact = "If you want something go get it period";
@@ -33,6 +33,9 @@ public class AboutMe {
     }
 }
 ```
+
+
+
 <h3 align="center">📊 Github stats</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ranger-HK&&show_icons=true&count_private=true&theme=blue-green&hide_border=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=Ranger-HK&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&background=081F8D15"/>
