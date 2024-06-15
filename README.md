@@ -1,8 +1,19 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Ravindu+Prathibha;Software+Engineer+Student;And+an+Open+Source+Supporter">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=440&height=45&lines=Hi%2C+I'm+Ravindu+Prathibha;Software+Engineer;Full+Stack+Developer;Free+Lancer;Youtuber+;And+an+Open+Source+Supporter">
 </p >
 
-### 🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆🆂 🕵️‍♂️
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></p>
+
+🅿🆁🅾🅵🅸🅻🅴 🆅🅸🅴🆆🆂 🕵️‍♂️
+--
+
+## 🐍 A Snake Eating my Contributions Graph
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+
 - My primary coding language : Java 🧒
 - Graduate in Software Engineering at IJSE 👨‍🎓
 - Proud to be Sripalian. 💙🧡
@@ -33,8 +44,6 @@ public class AboutMe {
     }
 }
 ```
-
-
 
 <h3 align="center">📊 Github stats</h3>
 
