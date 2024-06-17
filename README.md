@@ -23,7 +23,7 @@
 - :trophy: As A Training Associate Software Engineer, I Have `Experience`
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :technologist: Programming Skills: `*Java, HTML, CSS, JavaScript, NodeJS`
+- :technologist: Programming Skills: `*Java, HTML, CSS, JavaScript, React, React Native, Vue.js, SpringMVC. SpringBoot, NodeJS, Express.js...`
 - :nerd_face: I’m Currently Open To A New `job opportunity`.
 - :boom: How To Reach Me: ravinduprathibha9@gmail.com
 - :technologist: You can visit [MY WEBSITE](https://ranger-hk.github.io/MyProfile/).
